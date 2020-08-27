@@ -1,5 +1,5 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true" CodeFile="Default.aspx.vb" Inherits="Default" %>
-<%@ Register Assembly="DevExpress.Web.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
+<%@ Register Assembly="DevExpress.Web.v17.1, Version=17.1.17.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
     Namespace="DevExpress.Web" TagPrefix="dx" %>
 
 <!DOCTYPE html>
